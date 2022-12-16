@@ -68,8 +68,4 @@
 
 // message();
 // sdfdsf
-<<<<<<< HEAD
-// main changes
-=======
 // newbranch checking checkout
->>>>>>> newbranch
